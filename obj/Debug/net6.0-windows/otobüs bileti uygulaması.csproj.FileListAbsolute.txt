@@ -1,0 +1,18 @@
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\otobüs bileti uygulaması\bin\Debug\net6.0-windows\otobüs bileti uygulaması.exe
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\otobüs bileti uygulaması\bin\Debug\net6.0-windows\otobüs bileti uygulaması.deps.json
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\otobüs bileti uygulaması\bin\Debug\net6.0-windows\otobüs bileti uygulaması.runtimeconfig.json
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\otobüs bileti uygulaması\bin\Debug\net6.0-windows\otobüs bileti uygulaması.dll
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\otobüs bileti uygulaması\bin\Debug\net6.0-windows\otobüs bileti uygulaması.pdb
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\otobüs bileti uygulaması\obj\Debug\net6.0-windows\otobüs bileti uygulaması.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\otobüs bileti uygulaması\obj\Debug\net6.0-windows\otobüs_bileti_uygulaması.Form1.resources
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\otobüs bileti uygulaması\obj\Debug\net6.0-windows\otobüs_bileti_uygulaması.Properties.Resources.resources
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\otobüs bileti uygulaması\obj\Debug\net6.0-windows\otobüs bileti uygulaması.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\otobüs bileti uygulaması\obj\Debug\net6.0-windows\otobüs bileti uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\otobüs bileti uygulaması\obj\Debug\net6.0-windows\otobüs bileti uygulaması.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\otobüs bileti uygulaması\obj\Debug\net6.0-windows\otobüs bileti uygulaması.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\otobüs bileti uygulaması\obj\Debug\net6.0-windows\otobüs bileti uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\otobüs bileti uygulaması\obj\Debug\net6.0-windows\otobüs bileti uygulaması.dll
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\otobüs bileti uygulaması\obj\Debug\net6.0-windows\refint\otobüs bileti uygulaması.dll
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\otobüs bileti uygulaması\obj\Debug\net6.0-windows\otobüs bileti uygulaması.pdb
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\otobüs bileti uygulaması\obj\Debug\net6.0-windows\otobüs bileti uygulaması.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Desktop\YAZILIM DÜNYASI\C#\c# form\c# öğrenirken yapılan projeler\otobüs bileti uygulaması\obj\Debug\net6.0-windows\ref\otobüs bileti uygulaması.dll
